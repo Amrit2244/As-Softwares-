@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "http-proxy-middleware": "^3.0.2",
+    "jsonwebtoken": "^9.0.2",
+    "mangoodb": "^1.5.1",
+    "mongodb": "^6.9.0",
+    "mongoose": "^8.7.0",
+    "route": "^0.2.5",
+    "router": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.5"
+  }
+}
